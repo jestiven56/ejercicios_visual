@@ -12,9 +12,9 @@
     
     $nombre='daniel';
     $apellido= 'stiven';
+    $edad = 22;
 
     echo $nombre." ".$apellido
-
     
 
 
