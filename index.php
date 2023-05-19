@@ -13,7 +13,7 @@
     $nombre='daniel';
     $apellido= 'stiven';
 
-    echo $nombre, $apellido
+    echo $nombre." ".$apellido
 
     
 
